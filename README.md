@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jgurukrishna
+- 👋 Hi, I’m @Guru Krishna
 - 👀 I’m interested in learning automation skills be it QA or Dev
 - 🌱 I’m currently learning Mobile App Automation and RPA
 - 💞️ I’m looking to collaborate on any new skills in QA
